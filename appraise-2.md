@@ -1,5 +1,6 @@
 # 译文讲评【一】
 
+## 原文
 > The last two months have seen some astonishing bidding in auctions of Chinese treasures.
 > 
 > Record after record has fallen away as newly wealthy collectors from mainland China have piled into salerooms in London, New York and Hong Kong, anxious to bring home their imperial cultural patrimony.
@@ -10,7 +11,7 @@
 > 
 > A close examination of some of the lots that have achieved record prices since early October shows that success cannot be taken for granted.
 
-##译文及评析
+## 译文及评析
 
 > The last two months have seen some astonishing bidding in auctions of Chinese treasures.
 >
